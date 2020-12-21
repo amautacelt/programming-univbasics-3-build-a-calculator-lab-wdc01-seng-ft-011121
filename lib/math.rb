@@ -19,5 +19,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num1, num2)
-  (square_root(num1)).to eq(num2)
+  (square_root(81)).to eq(9)
 end
